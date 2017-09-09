@@ -1,0 +1,14 @@
+h1 {
+    font-size: 55px;
+    color: blue;
+}
+
+.important {
+    color: #c71be6;
+}
+
+table,
+td {
+    border: 1px solid red;
+    border-collapse: collapse;
+}
